@@ -1,0 +1,88 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    border: 2px solid rgb(249, 244, 244);
+    margin: 30px 7px;
+    background-color: #eee
+}
+
+.heading {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+
+.description {
+    text-align: center;
+    font-size: 1.05rem;
+    margin-bottom: 20px;
+    color: rgb(34, 33, 33);
+}
+
+.inner-box {
+    border: 2px solid rgb(249, 244, 244);
+    margin: 0 10px ;
+    background-color: white;
+}
+
+.image {
+    display: block;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about {
+    margin-top: 20px;
+}
+
+.head {
+    text-align: center;
+    font-size: 1.2rem;
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+
+.note {
+    margin-left: 30%;
+    margin-right:30% ;
+    font-size: 1.05rem;
+}
+.note p {
+    margin-bottom: 10px;
+}
+.para {
+    margin-left: 28%;
+    margin-right:30%;
+    margin-top: 40px;
+    font-style: italic;
+    font-size: 1.05rem;
+}
+.par {
+    margin-left: 28%;
+    font-style: italic;
+    font-style: italic;
+    font-size: 1.05rem;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.foot {
+    margin-left: 20%;
+    margin-bottom: 30px;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+.foot a {
+    font-size: 1.2rem;
+    color: blue;
+
+}
+span.bold {
+    font-weight: 600;
+}
